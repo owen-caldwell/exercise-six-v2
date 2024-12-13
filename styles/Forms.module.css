@@ -1,0 +1,22 @@
+.Page{
+    display: block;
+}
+
+.Form{
+    display: block;
+}
+
+.Form input {
+    display: flex;
+    height: 1em;
+    margin-bottom: 10px;
+  }
+  
+.Form button {
+    background-color: rgb(132, 152, 215);
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px;
+}
+  
